@@ -58,15 +58,15 @@ article {
 
 .flex-left {
 width: 75%;
-height: 90vh;
-margin: 7px;
-padding: 7px;
-border: black
+height: 100vh;
+margin: 5px;
+padding: 5px;
+border: black;
 }
 
 .flex-right {
     width: 25%;
-    margin: 7px;
-    padding: 7px;
-    border: 2px black
+    margin: 5px;
+    padding: 5px;
+    border: 2px black;
 }
