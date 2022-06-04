@@ -11,6 +11,15 @@ body {
     background: #fff; 
 }
 
+header: {
+    background: #222
+}
+
+section {
+    background:rgb(32, 108, 136)
+    display: flex
+}
+
 h1 {
     font-size: 3em;
     margin: 0;
@@ -39,7 +48,7 @@ article:nth-of-type(1) {
 }
  
 article:nth-of-type(2) {
-    flex: 1;
+    flex: 3;
 }
 
 
