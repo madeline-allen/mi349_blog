@@ -17,7 +17,7 @@ header: {
 
 section {
     background:rgb(32, 108, 136)
-    display: flex
+    display: flex;
 }
 
 h1 {
