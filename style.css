@@ -16,6 +16,12 @@ h1 {
     margin: 0;
 }
 
+.sticky {
+    background: crimson
+    poistion: sticky;
+    top: 0
+}
+
 p {
     line-height: 1.4em;
 }
