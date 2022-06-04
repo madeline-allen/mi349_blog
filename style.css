@@ -51,22 +51,12 @@ article {
     border-bottom: 1px solid #000;
 }
 
-.flex-container {
-    display: flex;
-    flex-direction: row;
+aside {
+    background:rgb(88, 154, 109)
+    flex: 1;
 }
 
-.flex-left {
-width: 75%;
-height: 100vh;
-margin: 5px;
-padding: 5px;
-border: black;
-}
-
-.flex-right {
-    width: 25%;
-    margin: 5px;
-    padding: 5px;
-    border: 2px black;
+div {
+    background:rgb(32, 108, 136)
+    flex: 5;
 }
