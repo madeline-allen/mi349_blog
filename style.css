@@ -44,7 +44,7 @@ article {
 }
 
 article:nth-of-type(1) {
-    flex: 4;
+    flex: 1000px;
 }
  
 article:nth-of-type(2) {
