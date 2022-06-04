@@ -17,7 +17,7 @@ h1 {
 }
 
 .sticky {
-    background: crimson
+    background: rgb(5, 71, 45)
 }
 
 p {
@@ -29,7 +29,7 @@ p {
 }
 
 article {
-    background: rgb(224, 54, 54);
+    background: rgb(88, 154, 109);
     padding: 20px;
     margin: 20px;
 }
